@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- <p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api?username=henkelmax&count_private=true&show_icons=true&include_all_commits=true&bg_color=00000000&text_color=7a7a7a"/>
+</p> -->
+<p align="center" >
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ma4z-sys&show_icons=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only"/>
+</p>
 
-<!--
-**ma4z-sys/ma4z-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="center" >
+    <img src="https://streak-stats.demolab.com/?user=henkelmax&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=00000000&currStreakNum=7A7A7A&sideNums=7A7A7A&sideLabels=7A7A7A&border=E4E2E2&currStreakLabel=3080ED&ring=3080ED&fire=DD2727"/>
+</p> -->
+<!-- See https://github.com/Pranesh-2005/github-readme-stats-fast -->
+<p align="center" >
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ma4z-sys&theme=github_dark#gh-dark-mode-only"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- <p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=henkelmax&bg_color=00000000&text_color=7a7a7a"/>
+</p> -->
+<!-- <p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=henkelmax&bg_color=00000000&text_color=7a7a7a"/>
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henkelmax&layout=compact&hide=html&bg_color=00000000&text_color=7a7a7a"/>
+</p> -->
+<p align="center" >
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ma4z-sys&layout=compact&hide=html&theme=github_dark#gh-dark-mode-only"/>
+</p>
